@@ -1,101 +1,70 @@
-# Travisor
-Travisor is a Travel Advisor app which allows you to navigate to your favourite hotels, restaurants and attractions. 
+# Getting Started with Create React App
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  <h3 align="center">Travisor - Explore the World!</h3>
+## Available Scripts
 
-  <p align="center">
-    An awesome travel advisor app which changes how you see the world!
-    <br />
-    
-  </p>
-</div>
+In the project directory, you can run:
 
+### `npm start`
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-There are many great ways to travel the world and few people know how to do it the PRO way.
+### `npm test`
 
-Here, Travisor can help the wanderers in coolest way possible.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Here's why:
-* Travisor is an Single Page application, that means everything is ready for you on the go.
-* Travisor is simple, less complex and one-click way to find out any restaurant, hotel or attraction wherever in the world.
-* It deliver the results in just one click :smile:
+### `npm run build`
 
-Of course, Travisor may not be the best but it makes life simple!
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Let's understand how:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* The project uses Google Places API & Google Maps API which provides you the result with just one search.
-* Use of ReactJs made it more structured and easily navigable. 
-* Travisor filters out the extra clutter which Google Maps has and provides only which is required.
-* For the data, I have used Travel advisor API from RapidAPI to fetch required data.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Here's why Travisor is special 😃
-* Along side Hotels, Restaurants and Attractions, It also provides the weather report.
-* Open Weather API makes it possible to show each place weather which makes the traveller to travel with safety considering the weather situation.
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Built With
+## Learn More
 
-Here are the top frameworks/libraries used to make this project possible
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-* [React.js](https://reactjs.org/)
-* [Google Maps API](https://vuejs.org/)
-* [NodeJS](https://nodejs.org/)
-* [RapidAPI](https://rapidapi.com/)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Prerequisites
+### Advanced Configuration
 
-This is an example of how to list things you need to use the software and how to install them.
-* react
-  ```sh
-  npx create-react-app travisor
-  ```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Installation
+### Deployment
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-1. Get a free API Key of Travel advisor API at [RapidAPI](https://rapidapi.com/)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `/api/index.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+### `npm run build` fails to minify
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
