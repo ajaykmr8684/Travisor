@@ -23,7 +23,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/ajaykmr8684/Travisor/blob/main/DemoImages/Screenshot%20(188).png" alt="Logo" >
+  </a>
+  
+   <br />
+    <br />
+    
+ <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/ajaykmr8684/Travisor/blob/main/DemoImages/Screenshot%20(189).png" alt="Logo" >
+ </a>
+    
+  
 
 Travisor is a Travel advisor by which you can search for hotels, restaurants and attraction in a single go!
 
